@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "504461435449",
+    "project_id": "hackdol-52b7f",
+    "storage_bucket": "hackdol-52b7f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:504461435449:android:095f0f8dfd6b8c828da3e8",
+        "android_client_info": {
+          "package_name": "com.example.hackdol_1_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSUWGPltFuhrCTkym357lZZi2lSSrJ4aI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
